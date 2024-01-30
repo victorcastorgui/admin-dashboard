@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullname": "acong acong",
+      "email": "acong@mail.com",
+      "password": "password"
+    },
+    {
+      "fullname": "Victor Castor",
+      "email": "victorcastor@gmail.com",
+      "password": "password",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "id": 2,
+      "name": "Patek Phillipe",
+      "price": 200000,
+      "weight": 10,
+      "width": 10,
+      "length": 10,
+      "category": "1",
+      "discount": 0,
+      "caseDetail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "dial": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "hand": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "material": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "importantNote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "movement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "model": [
+        {
+          "name": "Patek",
+          "qty": 10,
+          "photos": [
+            "https://w7.pngwing.com/pngs/105/211/png-transparent-patek-philippe-co-patek-philippe-calibre-89-automatic-watch-nautilus-watch-watch-accessory-accessories-steel-thumbnail.png",
+            "https://w7.pngwing.com/pngs/218/47/png-transparent-patek-philippe-co-patek-philippe-calibre-89-watch-chronograph-calatrava-watch-watch-accessory-accessories-steel-thumbnail.png",
+            "https://w7.pngwing.com/pngs/225/259/png-transparent-patek-philippe-co-patek-philippe-calibre-89-watch-nautilus-complication-watch-watch-accessory-accessories-steel-thumbnail.png",
+            "https://w7.pngwing.com/pngs/301/595/png-transparent-patek-philippe-co-automatic-watch-movement-jewellery-watch-watch-accessory-accessories-diamond-thumbnail.png",
+            "https://w7.pngwing.com/pngs/142/300/png-transparent-patek-philippe-co-grande-complication-mechanical-watch-watch-thumbnail.png"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TESTTESTTESTd",
+      "price": "1002",
+      "discount": "99",
+      "weight": "9",
+      "length": "9",
+      "width": "9",
+      "category": "Digital Watches",
+      "caseDetail": "TESTTESTTESTd",
+      "dial": "TESTTESTTESTd",
+      "hand": "TESTTESTTESTd",
+      "material": "TESTTESTTESTd",
+      "importantNote": "TESTTESTTESTd",
+      "movement": "TESTTESTTESTd",
+      "model": [
+        {
+          "name": "",
+          "photos": [
+            "https://res.cloudinary.com/adminmatoa/image/upload/v1701584776/xn4f5q6vgymxzvskjbeq.png"
+          ],
+          "stock": 1
+        }
+      ],
+      "id": 18
+    }
+  ]
+}
